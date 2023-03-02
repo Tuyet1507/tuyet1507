@@ -1,0 +1,8 @@
+a=5
+b=2
+print("chia hết: ",a/b)
+print("chia lấy dư: ",a%b)
+print("chia lấy nguyên: ",a//b)
+spam=40
+egg=5
+spam + egg 
